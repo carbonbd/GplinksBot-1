@@ -1,12 +1,13 @@
 <?php
 //=========BOT TOKEN==========//
-$BOT_TOKEN = $_ENV['BOT_TOKEN'];
+$BOT_TOKEN = $_ENV['1796540796:AAET-rTswRCxsSbvb21z-tapd4-jYWqP31Y
+'];
 
 //=========BOT USERNAME======//
-$BOT_USERNAME = $_ENV['BOT_USERNAME'];
+$BOT_USERNAME = $_ENV['@LinShort_Bot'];
 
 //=========GPLINKS API KEY=========//
-$GP_API_KEY = $_ENV['GP_API_KEY'];
+$GP_API_KEY = $_ENV['4c30937a5d92adcbe9288467fe5da3b36e865c03'];
 
 //=========OTHERS=======//
 $START_MESSAGE = $_ENV["START_MESSAGE"] =<<<EOM
