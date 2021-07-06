@@ -1,7 +1,6 @@
 <?php
 //=========BOT TOKEN==========//
-$BOT_TOKEN = $_ENV['1796540796:AAET-rTswRCxsSbvb21z-tapd4-jYWqP31Y
-'];
+$BOT_TOKEN = $_ENV['1796540796:AAET-rTswRCxsSbvb21z-tapd4-jYWqP31Y'];
 
 //=========BOT USERNAME======//
 $BOT_USERNAME = $_ENV['@LinShort_Bot'];
